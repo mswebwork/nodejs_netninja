@@ -35,3 +35,4 @@ if (fs.existsSync('./docs/deleteme.txt')) {
     console.log('File deleted!');
   });
 }
+
